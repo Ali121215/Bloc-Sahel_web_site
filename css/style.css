@@ -111,3 +111,6 @@ footer strong{color:var(--on-dark);font-family:var(--display);font-stretch:112%;
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .in h3+.prod{margin-top:12px}
+
+.head .eyebrow{margin:0 0 14px;color:var(--terra-d)}
+.why .head .eyebrow{color:var(--ochre)}
