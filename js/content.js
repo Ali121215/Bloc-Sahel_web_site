@@ -1,11 +1,17 @@
-/* Contenu modifiable du site : textes de contact, produits, liens. Pas de logique ici. */
+/* GÉNÉRÉ par build.mjs depuis content/site.json. Ne pas modifier à la main. */
 window.SITE = {
-  name: "Bloc Sahel",
-  phones: [
-    { label: "69 32 06 06", wa: "23569320606" },   // numéro principal (WhatsApp)
-    { label: "96 38 38 01", wa: "23596383801" }
+  "name": "Bloc Sahel",
+  "phones": [
+    {
+      "label": "69 32 06 06",
+      "wa": "23569320606"
+    },
+    {
+      "label": "96 38 38 01",
+      "wa": "23596383801"
+    }
   ],
-  products: [
+  "products": [
     "Bloc creux 400 × 200 × 200 mm",
     "Bloc creux 400 × 150 × 200 mm",
     "Hourdis 530 × 150 × 200 mm",
@@ -14,9 +20,9 @@ window.SITE = {
     "Pavé 250 × 250 × 60 mm",
     "Plusieurs produits"
   ],
-  messages: {
-    info: "Bonjour Bloc Sahel, j'aimerais avoir des informations.",
-    quoteIntro: "Bonjour Bloc Sahel, je souhaite un devis.",
-    quoteOutro: "Merci."
+  "messages": {
+    "info": "Bonjour Bloc Sahel, j'aimerais avoir des informations.",
+    "quoteIntro": "Bonjour Bloc Sahel, je souhaite un devis.",
+    "quoteOutro": "Merci."
   }
 };

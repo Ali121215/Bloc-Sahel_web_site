@@ -109,3 +109,5 @@ footer{background:#2a2a28;color:#cfc9b8;padding-block:30px;font-size:.9rem}
 footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px 24px}
 footer strong{color:var(--on-dark);font-family:var(--display);font-stretch:112%;text-transform:uppercase;letter-spacing:.06em}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.in h3+.prod{margin-top:12px}

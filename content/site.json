@@ -1,0 +1,21 @@
+{
+  "name": "Bloc Sahel",
+  "phones": [
+    { "label": "69 32 06 06", "wa": "23569320606" },
+    { "label": "96 38 38 01", "wa": "23596383801" }
+  ],
+  "messages": {
+    "info": "Bonjour Bloc Sahel, j'aimerais avoir des informations.",
+    "quoteIntro": "Bonjour Bloc Sahel, je souhaite un devis.",
+    "quoteOutro": "Merci."
+  },
+  "extraOption": "Plusieurs produits",
+  "products": [
+    { "id": "bloc-20",  "group": "blocs", "kind": "hol", "label": "Bloc creux", "title": "Bloc creux 20", "dims": [400, 200, 200],  "use": "Murs porteurs, façades, clôtures." },
+    { "id": "bloc-15",  "group": "blocs", "kind": "hol", "label": "Bloc creux", "title": "Bloc creux 15", "dims": [400, 150, 200],  "use": "Cloisons et murs intérieurs." },
+    { "id": "hourdis",  "group": "blocs", "kind": "hol", "label": "Hourdis",    "title": "Hourdis",       "dims": [530, 150, 200],  "use": "Planchers à poutrelles." },
+    { "id": "pave-225", "group": "paves", "kind": "pav", "label": "Pavé",       "title": "Pavé 225",      "dims": [225, 112.5, 60], "use": "Cours, allées, parkings." },
+    { "id": "pave-200", "group": "paves", "kind": "pav", "label": "Pavé",       "title": "Pavé 200",      "dims": [200, 100, 60],   "use": "Trottoirs, terrasses." },
+    { "id": "pave-250", "group": "paves", "kind": "pav", "label": "Pavé",       "title": "Pavé 250",      "dims": [250, 250, 60],   "use": "Grandes surfaces, cours, entrées." }
+  ]
+}
